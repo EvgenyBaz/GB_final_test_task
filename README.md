@@ -10,4 +10,5 @@
 6. Вывод нового массива
 
 **Блок схема>**
-![Блоксхема] (/Final_test_task/pic/schema.PNG)
+
+![Schema](pic/schema.PNG)
